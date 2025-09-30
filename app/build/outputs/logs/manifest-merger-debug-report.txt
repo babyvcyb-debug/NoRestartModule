@@ -1,0 +1,65 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml:1:1-20:12
+	package
+		ADDED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml:2:5-36
+		INJECTED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml
+		INJECTED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml
+		ADDED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml:1:1-20:12
+		INJECTED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml
+		ADDED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml:1:1-20:12
+		INJECTED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml:4:5-19:19
+	android:label
+		ADDED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml:5:9-40
+	android:debuggable
+		ADDED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml:8:9-34
+	android:icon
+		ADDED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml:7:9-36
+meta-data#xposedmodule
+ADDED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml:10:9-12:35
+	android:value
+		ADDED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml:12:13-33
+	android:name
+		ADDED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml:11:13-40
+meta-data#xposeddescription
+ADDED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml:13:9-15:75
+	android:value
+		ADDED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml:15:13-73
+	android:name
+		ADDED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml:14:13-45
+meta-data#xposedminversion
+ADDED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml:16:9-18:33
+	android:value
+		ADDED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml:18:13-31
+	android:name
+		ADDED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml:17:13-44
+uses-sdk
+INJECTED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml
+INJECTED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml
+INJECTED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml
+INJECTED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml
+		ADDED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml
+		INJECTED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml
+		ADDED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml
+		INJECTED from /data/data/com.termux/files/home/NoRestartModule/app/src/main/AndroidManifest.xml
