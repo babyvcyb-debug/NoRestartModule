@@ -1,0 +1,19 @@
+# Gradle & build output
+.gradle/
+**/build/
+**/.cxx/
+local.properties
+
+# SDK/tooling lỡ commit
+android-*/
+android-sdk/
+app/build-tools/
+
+# Artefacts
+*.apk
+*.aab
+app/build-tools.zip
+
+# Giữ các file jar cần thiết
+!gradle/wrapper/gradle-wrapper.jar
+!app/libs/*.jar
