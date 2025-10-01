@@ -1,25 +1,18 @@
-plugins {
-    id 'com.android.application'
-}
+apply plugin: 'com.android.application'
 
 android {
-    compileSdk 33
-
+    namespace "com.example.norestart"
+    compileSdkVersion 33
     defaultConfig {
         applicationId "com.example.norestart"
-        minSdk 24
-        targetSdk 33
+        minSdkVersion 21
+        targetSdkVersion 33
         versionCode 1
         versionName "1.0"
-        multiDexEnabled true
     }
-
     buildTypes {
-        release {
-            minifyEnabled false
-            shrinkResources false
-            debuggable true
-        }
+        release { minifyEnabled false }
+        debug { debuggable true }
     }
 }
 
