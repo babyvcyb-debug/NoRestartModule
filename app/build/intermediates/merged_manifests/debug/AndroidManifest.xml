@@ -5,24 +5,12 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="24"
+        android:minSdkVersion="21"
         android:targetSdkVersion="33" />
 
     <application
         android:allowBackup="false"
         android:debuggable="true"
-        android:extractNativeLibs="false"
-        android:icon="@mipmap/ic_launcher"
-        android:label="NoRestartModule" >
-        <meta-data
-            android:name="xposedmodule"
-            android:value="true" />
-        <meta-data
-            android:name="xposeddescription"
-            android:value="Chặn app bị restart khi tháo chuột Bluetooth" />
-        <meta-data
-            android:name="xposedminversion"
-            android:value="82" />
-    </application>
+        android:label="NoRestartModule" />
 
 </manifest>
